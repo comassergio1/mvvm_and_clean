@@ -1,7 +1,8 @@
-package com.example.mvvm_and_clean
+package com.example.mvvm_and_clean.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.mvvm_and_clean.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
