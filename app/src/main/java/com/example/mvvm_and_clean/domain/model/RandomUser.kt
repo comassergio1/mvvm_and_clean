@@ -7,5 +7,6 @@ data class RandomUser(
     val age: Int,
     val address: String,
     val phone: String,
-    val password: String
+    val password: String,
+    val photo: String
         )

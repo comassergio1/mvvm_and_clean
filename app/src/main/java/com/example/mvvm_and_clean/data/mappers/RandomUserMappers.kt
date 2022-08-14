@@ -11,7 +11,7 @@ fun Result.toDomain(): RandomUser{
         age = this.dob.age,
         address = "${this.location.state} ${this.location.city}",
         phone = this.phone,
-        password = this.login.password
-
+        password = this.login.password,
+        photo = this.picture.large
     )
 }

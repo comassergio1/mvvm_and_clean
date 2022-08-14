@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Mvvm_and_clean</string>
+    <string name="main__update">Actualizar</string>
 </resources>
